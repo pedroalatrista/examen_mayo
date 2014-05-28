@@ -1,0 +1,115 @@
+.contenedor{
+	font-family: arial;
+	background: green;
+	width: 900px;
+	height: 900;
+	margin: auto;
+
+}
+header{	width:900px;
+		height:70px;
+		background-color:brown;
+	}
+
+.lado01 ul{
+	width:300px;
+	height:680px;
+	background-color:blue;
+	float: left;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.menu_principal ul li a{	
+		margin-right:12px;
+		font-size:35px;
+		color:white;
+		margin-top:10px;
+		text-decoration:none;
+		background: green;
+}
+
+ul{	list-style:none;}
+.menu_principal ul li a:hover{	
+		margin-right:12px;
+		font-size:35px;
+		color:red;
+		margin-top:10px;
+		text-decoration:none;
+		background: green;
+}
+.lado02{
+	width:560px;
+	height:680px;
+	background-color:orange;
+	float: left;
+}
+
+
+section{
+	background: black;
+	width: 900px;
+	height: 700px;
+}
+
+
+
+footer{
+	background: black;
+	width: 900px;
+	height: 200px;
+}
+
+.seccion01 ul{
+	width:260px;
+	height:200px;
+	background-color:green;
+	float: left;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.interno01 ul li a{	
+		margin-right:12px;
+		font-size:20px;
+		color:white;
+		margin-top:0px;
+		text-decoration:none;
+		background: black;
+}
+
+.seccion02 ul{
+	width:260px;
+	height:200px;
+	background-color:green;
+	float: left;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.interno02 ul li a{	
+		margin-right:12px;
+		font-size:20px;
+		color:white;
+		margin-top:0px;
+		text-decoration:none;
+		background: black;
+}
+
+.seccion03 ul{
+	width:260px;
+	height:200px;
+	background-color:green;
+	float: left;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.interno03 ul li a{	
+		margin-right:12px;
+		font-size:20px;
+		color:white;
+		margin-top:0px;
+		text-decoration:none;
+		background: black;
+}
